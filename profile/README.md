@@ -1,4 +1,16 @@
-## Hi there 👋
+## Humanities Preparatory Academy
+
+Welcome to our Github!
+
+Here you'll find...
+
+- Websites for Humanities Prep.
+
+- FIRST Robotics code
+
+- Infrastructure & Automation tools
+
+and more!
 
 <!--
 
